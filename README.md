@@ -70,12 +70,12 @@ Soy estudiante de **Ingeniería de Software** y **desarrollador Web y Aplicacion
 
 ## <img src="./assets/icons/rocket.svg" width="30" align="absmiddle" alt="" /> Proyectos Destacados
 
-### <img src="./assets/icons/gamepad.svg" width="24" align="absmiddle" alt="" /> [Nexos]([https://github.com/MateoLMR/nexos](https://mateolmr.github.io/nexos/#/))
+### <img src="./assets/icons/gamepad.svg" width="24" align="absmiddle" alt="" /> [Nexos](https://mateolmr.github.io/nexos/#/)
 Plataforma web interactiva para la **comunidad gamer**. Reúne artículos e información sobre videojuegos, un **foro de discusión interactivo** y una sección dedicada a las **noticias de eSports**.
 
 > <img src="./assets/icons/link.svg" width="18" align="absmiddle" alt="" /> **Repositorio:** [github.com/MateoLMR/nexos](https://github.com/MateoLMR/nexos)
 
-### <img src="./assets/icons/folder.svg" width="24" align="absmiddle" alt="" /> [DAI — Digitalización y Almacenamiento de Información]([https://github.com/gabriel-guevara/D.A.I](https://gabriel-guevara.github.io/D.A.I/login))
+### <img src="./assets/icons/folder.svg" width="24" align="absmiddle" alt="" /> [DAI — Digitalización y Almacenamiento de Información](https://gabriel-guevara.github.io/D.A.I/login)
 Sistema de **gestión documental** y plataforma empresarial orientada a la **digitalización de archivos físicos**, ideal para firmas de abogados y empresas con alto flujo documental. Ofrece **control de versiones**, **trabajo colaborativo** y una **biblioteca digital** para organizar la información de forma eficiente.
 
 > <img src="./assets/icons/link.svg" width="18" align="absmiddle" alt="" /> **Repositorio:** [github.com/gabriel-guevara/D.A.I](https://github.com/gabriel-guevara/D.A.I)
@@ -91,10 +91,6 @@ Sistema de **gestión documental** y plataforma empresarial orientada a la **dig
   <a href="mateolealry@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MateoLMR&color=7aa2f7&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
