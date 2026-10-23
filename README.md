@@ -30,7 +30,7 @@ Desarrollador enfocado en el desarrollo de aplicaciones web y software. Me apasi
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoLMR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoLMR&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoLMR&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
